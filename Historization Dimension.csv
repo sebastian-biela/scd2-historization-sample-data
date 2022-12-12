@@ -1,0 +1,12 @@
+﻿Employee ID;Name;Department;Valid From;Valid To
+1;Joe;Finance;01.12.2022;31.12.9999
+2;Mary;Marketing;01.12.2022;05.12.2022
+2;Mary;Operations;06.12.2022;31.12.9999
+3;Martin;Operations;01.12.2022;31.12.9999
+4;Jill;Marketing;01.12.2022;31.12.9999
+5;Eva;Finance;01.12.2022;31.12.9999
+6;Alexandra;Sales;01.12.2022;31.12.9999
+7;James;HR;01.12.2022;31.12.9999
+8;Roger;HR;01.12.2022;31.12.9999
+9;Britney;Operations;01.12.2022;31.12.9999
+10;Anne;Finance;01.12.2022;31.12.9999
